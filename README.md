@@ -8,7 +8,7 @@ Pozwala na zarządzanie bazą klientów – dodawanie, edytowanie, przeglądanie
 
 Projekt powstał na podstawie materiału wideo dostępnego na YouTube:
 
-👉 [Zobacz tutorial na YouTube](https://www.youtube.com/link-do-filmu)
+👉 [Zobacz tutorial na YouTube](https://www.youtube.com/watch?v=t10QcFx7d5k&t=5416s)
 
 ## 🛠️ Technologie
 
